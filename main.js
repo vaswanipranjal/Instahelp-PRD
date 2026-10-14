@@ -52,7 +52,7 @@ app.innerHTML = `
                 <circle cx="60" cy="60" r="46" fill="none" stroke="#006c4a" stroke-linecap="round" stroke-dasharray="289" stroke-dashoffset="76" stroke-width="7"></circle>
               </svg>
               <div style="position:absolute; text-align:center;">
-                <div style="font-size:28px; font-weight:800;">38s</div>
+                <div style="font-size:28px; font-weight:800;">30s</div>
                 <div style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; color:#45464d; font-weight:700;">Target SLA</div>
               </div>
             </div>
